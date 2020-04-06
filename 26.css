@@ -1,0 +1,39 @@
+body {
+    /* background-image: url("Concrete-Floor-Tile.png"); */
+}
+
+table {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    text-decoration: none;
+    border-spacing: 0;
+    border-collapse: collapse;
+    display: block;
+    background-image: url("Concrete-Floor-Tile.png");
+    line-height: 0;
+}
+
+.kontnt {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+
+.butns {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.batn {
+    background-color: #eeeeee;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: Segoe UI Emoji;
+    color: #1f271b;
+    padding:5px 10px;
+    text-decoration: none;
+    font-size: xx-large;
+}

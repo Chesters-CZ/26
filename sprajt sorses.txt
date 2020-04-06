@@ -1,0 +1,4 @@
+wall (00.png) by Alekei, licensed under CC-BY 3.0
+floor (Concrete-Floor-Tile.png) by metalx1000, licensed under CC-BY-SA 4.0
+guy (logo.png) by KBArt, licensed under CC-BY 4.0
+stairs (stairs_32x32_EVEN EVEN MOAR SHADOW.png), a CC0 public domain work
